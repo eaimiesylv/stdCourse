@@ -1,9 +1,11 @@
 **Project Description**
 
-This is a laravel project that shows different test
+This project is a course management project. 
+
+
 **Project Limitation**
 
-This is a test project and should not be used for production
+This is a test project set up using docker
 
 **Project Technology**
 
@@ -23,13 +25,7 @@ Bootstrap 5.0
 
 **Project Requirement**
 
-To run this project you need
-
-Php 8.1
-
-Mysql
-
-Apache server or any other server
+To run this project you need docker
 
 **How to set up project Clone the project**
 
